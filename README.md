@@ -1,12 +1,7 @@
 - 👋 Hi, I’m Vishal
-- 👀 I’m interested in Google Cloud, DevOps , 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Google Cloud, DevOps , Ruby On Rails, Terraform, Open Source Projects, Scripting (Bash/Shell/Powershell), UX/UI
+- 🌱 I’m currently learning AWS, Azure and Cyber Security (DFIR).
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 How to reach me vishal.bidwe1@gmail.com, https://www.linkedin.com/in/vishalbidwe
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-vishalbidwe-ssk/vishalbidwe-ssk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
